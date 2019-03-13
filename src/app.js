@@ -61,7 +61,6 @@ app.get('/weather', (req, res) => {
     })
   });
 
-
 });
 
 app.get('/help/*', (req, res) => {
